@@ -20,3 +20,5 @@ Le fichier peut être ouvert avec :
 * Le fichier est enregistré au format RFC-822
 * Les pièces jointes son encodées sous forme de texte, ce qui empêche de les visualiser sans outil adapté
 * L'extension à été créee pour enregistrer les e-mails hors ligne et uniformiser leur envoi
+
+![Tux, the Linux mascot](https://zupimages.net/viewer.php?id=21/50/bilc.png)
